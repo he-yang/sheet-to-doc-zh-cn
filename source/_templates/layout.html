@@ -1,0 +1,22 @@
+{% extends "!layout.html" %}
+
+{% block htmltitle %}
+    {{ super() }}
+
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "SoftwareApplication",
+          "name": "Sheet to Doc",
+          "description": "A web application that automatically generates documents from Word templates and Excel data.",
+          "applicationCategory": "Document Conversion",
+          "operatingSystem": "Web"
+        }
+    </script>
+    <meta name="description"
+        content="一个能够根据 Word 模板和 Excel 数据自动生成文档的 Web 应用。">
+    <meta name="keywords"
+        content="sheet-to-doc, excel-to-word, excel 转 word, word 转 excel, word, excel, 转换, mac, windows, 传输, 电子表格, 微软, 插件, 网页, 在线">
+    <link rel="icon" href="https://wtsolutions.cn/favicon.ico">
+    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "21223ed11ede4f07b030f41d052210cc"}'></script><!-- End Cloudflare Web Analytics -->
+{% endblock %}
