@@ -30,6 +30,18 @@ Sheet to Doc 是一个功能强大的工具，可以自动将 Excel 表格转换
 3. **生成**：点击 "生成" 按钮创建个性化信函。
 4. **结果**：带有收件人姓名、地址和自定义内容的个性化商务信函。
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
+     crossorigin="anonymous"></script>
+   <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
+      data-ad-client="ca-pub-8772217510669640"
+      data-ad-slot="2653271427"></ins>
+   <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
+
 ## 基本使用步骤
 
 ### 1. 准备您的 Excel 数据

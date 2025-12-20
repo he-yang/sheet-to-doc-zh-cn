@@ -13,6 +13,18 @@
 - 根据需要添加任何其他文本或格式。
 - 将模板保存为 .docx 文件。
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
+     crossorigin="anonymous"></script>
+   <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
+      data-ad-client="ca-pub-8772217510669640"
+      data-ad-slot="2653271427"></ins>
+   <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
+
 ## 占位符
 
 ### 数据占位符
@@ -43,6 +55,8 @@
 </div>
 
 ### 循环占位符
+
+> 循环占位符只能在生成模式2下（每个数据项生成一个Word文档）生效。
 
 如果您的 Excel 表格中包含多行数据，您可以使用循环占位符来重复填充模板中的内容。
 

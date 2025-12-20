@@ -18,3 +18,14 @@ Sheet to Doc 是一个功能强大的工具，可以自动将 Excel 表格转换
 - 所有数据将合并到一个 Word 文档中, 在Word 文档内部，根据模版的占位符设计，相应的重复生成数据。
 - 文档的文件名将根据模板中的占位符自动生成，默认为sheet_to_doc_All_{时间戳}.docx。
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
+     crossorigin="anonymous"></script>
+   <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
+      data-ad-client="ca-pub-8772217510669640"
+      data-ad-slot="2653271427"></ins>
+   <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
