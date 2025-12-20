@@ -1,6 +1,10 @@
 # 入门指南
 
-Sheet to Doc 是一个功能强大的工具，可以自动将 Excel 表格转换为专业文档。本指南将引导您完成基本使用步骤、限制条件，并提供一些示例。
+[English](https://sheet-to-doc.wtsolutions.cn/en/latest/getstarted.html)
+
+Sheet to Doc 是一个功能强大的工具，可以自动将 Excel 表格转换为专业文档。在邮件合并的基础上，本工具开发了更多功能。
+
+本入门指南（本页内容）将引导您完成基本使用步骤，并提供一些示例。这是一个简单的入门指南，帮助您快速上手使用 Sheet to Doc，当您熟悉了之后应该阅读具体的[使用说明](Usage.md)来了解更多的功能。
 
 
 ## 使用场景
@@ -59,7 +63,8 @@ Sheet to Doc 是一个功能强大的工具，可以自动将 Excel 表格转换
 下载示例 Word 模板文件：[sample1-doc.docx](_static/sample1-doc.docx)
 
 
-```text
+<div class="word-document">
+
 主题：访问通知：一位同事明天来访
 
 尊敬的 Davidson：
@@ -67,15 +72,24 @@ Sheet to Doc 是一个功能强大的工具，可以自动将 Excel 表格转换
 我们特此通知您，我们的一位同事明天将访问您的办公室。其员工 ID 上显示的详细信息如下：
 
 姓名：{姓名}
+
 出生日期：{出生日期}
+
 性别：{性别}
 
 请在其抵达时协助办理入场和协调事宜。如有任何进一步的信息需求，请随时与我联系。
+
 感谢您的支持。
+
 此致
+
 敬礼
+
 WTSolutions
-```
+
+</div>
+
+
 
 ### 3. 访问工具
 
@@ -97,13 +111,16 @@ WTSolutions
 
 ### 6. 生成文档
 
+在选择生成模式的时候，选择模式1：每行数据生成单独Word文档
+
 点击 "生成" 按钮。该工具将使用 Excel 表格中的数据填充模板，并根据您选择的模板生成专业文档。
 
 示例：
 
 下载示例生成的文档：[sample1-report.docx](_static/sample1-report.docx)
 
-```text
+<div class="word-document">
+
 主题：访问通知：一位同事明天来访
 
 尊敬的 Davidson：
@@ -111,18 +128,30 @@ WTSolutions
 我们特此通知您，我们的一位同事明天将访问您的办公室。其员工 ID 上显示的详细信息如下：
 
 姓名：张三
+
 出生日期：1990/5/12
+
 性别：M
 
 请在其抵达时协助办理入场和协调事宜。如有任何进一步的信息需求，请随时与我联系。
+
 感谢您的支持。
+
 此致
+
 敬礼
+
 WTSolutions
 
-```
+</div>
 
+### 视频演示 
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115733463831611&bvid=BV1bgqVBCEDK&cid=34791951913&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 需要帮助？
 
 如果您遇到任何问题或有任何疑问，请发送电子邮件至 he.yang@wtsolutions.cn。
+
+## 意见建议
+[点击这里反馈意见](https://s.wtsolutions.cn/redirect.html#useradviceform)

@@ -2,11 +2,11 @@
    您可以根据需要完全调整此文件，但它至少应包含根 `toctree` 指令。
 
 Sheet to Doc by WTSolutions，从Excel数据和Word模版自动批量生成Word文档
-============================================================
+=================================================================================
 
 `English <https://sheet-to-doc.wtsolutions.cn/en/latest/>`_
 
-Sheet to Doc by WTSolutions 是一款可以将 Excel数据和Word模版批量生成Word文档的工具，它将Excel数据写入Word模版并生成Word文档：
+Sheet to Doc by WTSolutions 是一款可以将 Excel数据和Word模版批量生成Word文档的工具，它将Excel数据写入Word模版并生成Word文档，在邮件合并的基础之上，本工具开发了更多的功能：
 
 
 .. toctree::
@@ -14,6 +14,10 @@ Sheet to Doc by WTSolutions 是一款可以将 Excel数据和Word模版批量生
    :caption: 目录：
 
    getstarted.md
+   Usage.md
+   ExcelData.md
+   WordTemplate.md
+   Settings.md
    termsofuse.md
    privacy.md
    dependencies.md
