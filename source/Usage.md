@@ -62,3 +62,17 @@ Sheet to Doc 是一个功能强大的工具，可以自动将 Excel 表格转换
 点击 "生成" 按钮。该工具将使用数据填充模板，并根据您选择的模板生成专业文档。
 
 
+
+## 视频演示 
+
+1. 使用Excel数据演示
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115733463831611&bvid=BV1bgqVBCEDK&cid=34791951913&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+2. 使用JSON数据演示
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115762824026686&bvid=BV1gzBsB7ETa&cid=34907095682&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+3. 更多视频
+
+[点击这里查看更多视频](https://s.wtsolutions.cn/images/videoqrcodes.png)
