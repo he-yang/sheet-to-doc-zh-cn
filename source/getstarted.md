@@ -2,7 +2,7 @@
 
 [English](https://sheet-to-doc.wtsolutions.cn/en/latest/getstarted.html)
 
-Sheet to Doc 是一个功能强大的工具，可以自动将 Excel 表格转换为专业文档。在邮件合并的基础上，本工具开发了更多功能。
+Sheet to Doc 是一个功能强大的工具，可以自动将 Excel,CSV, JSON, JSONL数据转换为专业文档。在邮件合并的基础上，本工具开发了更多功能。
 
 本入门指南（本页内容）将引导您完成基本使用步骤，并提供一些示例。这是一个简单的入门指南，帮助您快速上手使用 Sheet to Doc，当您熟悉了之后应该阅读具体的[使用说明](Usage.md)来了解更多的功能。
 
@@ -108,6 +108,7 @@ WTSolutions
 您可以使用以下方式访问 Sheet to Doc：
 
 - 使用现代浏览器（如 Chrome、Firefox、Safari）访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)。
+- 您可以在右上角点击语言切换器来切换到英文。
 
 
 ### 4. 填写数据
