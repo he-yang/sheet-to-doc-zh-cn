@@ -2,7 +2,6 @@
 
 [English](https://sheet-to-doc.wtsolutions.cn/en/latest/Pricing.html)
 
-## 定价
 
 使用 Sheet to Doc 是现在免费的，您可以在任何时候使用它。
 
