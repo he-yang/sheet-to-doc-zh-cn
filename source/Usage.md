@@ -29,6 +29,8 @@ Sheet to Doc 是一个功能强大的工具，可以自动将 Excel 表格转换
 您可以使用以下方式访问 Sheet to Doc：
 
 - 使用现代浏览器（如 Chrome、Firefox、Edge、Safari）访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)。
+- 您可以在右上角点击语言切换器来切换到英文。
+- 下载工具作为桌面应用程序进行离线使用。 [下载](Download.md)
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
      crossorigin="anonymous"></script>

@@ -109,6 +109,7 @@ WTSolutions
 
 - 使用现代浏览器（如 Chrome、Firefox、Safari）访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)。
 - 您可以在右上角点击语言切换器来切换到英文。
+- 下载工具作为桌面应用程序进行离线使用。 [下载](Download.md)
 
 
 ### 4. 填写数据
