@@ -1,0 +1,28 @@
+# 下载
+
+[English](https://sheet-to-doc.wtsolutions.cn/en/latest/Download.html)
+
+如果您希望离线使用 sheet-to-doc（而不是在线版本），您可以从以下链接安装：
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
+     crossorigin="anonymous"></script>
+   <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
+      data-ad-client="ca-pub-8772217510669640"
+      data-ad-slot="2653271427"></ins>
+   <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
+
+- Windows (x32, x64)
+  - [sheet-to-doc-2.0.0-win-ia32.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/sheet-to-doc-2.0.0-win-ia32.exe)
+  - [sheet-to-doc-2.0.0-win-x64.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/sheet-to-doc-2.0.0-win-x64.exe)
+
+- Linux (x64, arm64, armv7l)
+  - [sheet-to-doc-2.0.0-linux-x64](https://r2.wtsolutions.cn/sheet-to-doc-releases/sheet-to-doc-2.0.0-linux-x64.AppImage)
+  - [sheet-to-doc-2.0.0-linux-arm64](https://r2.wtsolutions.cn/sheet-to-doc-releases/sheet-to-doc-2.0.0-linux-arm64.AppImage)
+  - [sheet-to-doc-2.0.0-linux-armv7l](https://r2.wtsolutions.cn/sheet-to-doc-releases/sheet-to-doc-2.0.0-linux-armv7l.AppImage)
+
