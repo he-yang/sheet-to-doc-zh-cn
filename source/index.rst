@@ -10,8 +10,10 @@ Sheet to Doc by WTSolutions 是一款可以将 Excel数据和Word模版批量生
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :numbered:
    :caption: 目录：
+   :name: mastertoc
 
    getstarted.md
    Usage.md
