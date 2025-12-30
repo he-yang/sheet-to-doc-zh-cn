@@ -19,6 +19,7 @@ Sheet to Doc by WTSolutions 是一款可以将 Excel数据和Word模版批量生
    Usage.md
    ExcelData.md
    WordTemplate.md
+   Comparison.md
    Settings.md
    Download.md
    Pricing.md

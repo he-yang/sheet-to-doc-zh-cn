@@ -4,6 +4,7 @@
 
 如果您希望离线使用 sheet-to-doc（而不是在线版本），您可以从以下链接安装：
 
+离线版本可以在脱离网络的环境中使用，比如内网或者没有链接到互联网的环境。
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
      crossorigin="anonymous"></script>
@@ -16,6 +17,11 @@
    <script>
       (adsbygoogle = window.adsbygoogle || []).push({});
    </script>
+
+## 最新版本
+
+- 当前在线版（网页）最新版本为2.1.0.0。
+- 当前离线版（桌面安装文件）最新版本为2.0.0。
 
 ## Windows (x32, x64)
   - [sheet-to-doc-2.0.0-win-ia32.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.0.0-win-ia32.exe)
