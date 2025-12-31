@@ -1,6 +1,7 @@
-# 数据准备
+# 数据和图片准备
 
 [English](https://sheet-to-doc.wtsolutions.cn/en/latest/ExcelData.html)
+
 
 ## 数据准备
 
@@ -12,7 +13,7 @@
 - JSON
 - JSONL
 
-## 数据内容
+### 数据内容
 
 至少应当包含两行一列数据。
 
@@ -71,7 +72,7 @@
       (adsbygoogle = window.adsbygoogle || []).push({});
    </script>
 
-## 数据类型
+### 数据类型
 
 Sheet to Doc 支持以下数据类型：
 
@@ -112,7 +113,18 @@ Sheet to Doc 支持以下数据类型：
     - 每个JSON对象的值（value）可以是任何JSON支持的数据类型
     - 每个JSON对象的值（value）可以为空（也就是没有内容）
 
+## 图片准备
 
+在使用 Sheet to Doc 之前，如果您希望把图片写入Word模版，那么您需要准备图片。
+
+我们接受多种格式的图片
+- JPEG
+- PNG
+- GIF
+- BMP
+- TIFF
+
+图片文件的大小不推荐超过1MB，推荐使用压缩工具压缩图片，以减小文件大小，否则生成时间会过长，出错的概率页也会增加。
 
 
 ## 视频演示 
