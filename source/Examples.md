@@ -1,0 +1,59 @@
+# 示例文档
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
+     crossorigin="anonymous"></script>
+   <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
+      data-ad-client="ca-pub-8772217510669640"
+      data-ad-slot="2653271427"></ins>
+   <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
+
+为了便于大家使用，我们提供了一些示例文档。我们将根据不同的使用场景，提供不同的示例。
+
+当大家在准备自己的文档模版遇到疑问时，可以参考本页面的示例，来了解如何使用Sheet to Doc。
+
+
+## 基础示例
+
+### 简单的文档生成
+
+- 邀请函一 （通过生成模式1生成）(生成若干这个独立的邀请函，每个邀请函一个单独的Word文档)
+   - 数据来源：[sample-invitation-12.xlsx](./_static/sample-invitation-12.xlsx)
+   - 文档模版：[sample-invitation-1.docx](./_static/sample-invitation-1.docx)
+
+- 邀请函二 （通过生成模式2生成）（生成一个Word文档，包含所有邀请函，每页一个邀请函）
+   - 数据来源：[sample-invitation-12.xlsx](./_static/sample-invitation-12.xlsx)
+   - 文档模版：[sample-invitation-2.docx](./_static/sample-invitation-2.docx)
+
+
+## 带图片的文档生成
+
+- 获奖通知一 （通过生成模式1生成）(生成若干这个独立的获奖通知，每个获奖通知一个单独的Word文档)
+   - 数据来源：[sample-award-12.xlsx](./_static/sample-award-12.xlsx)
+   - 文档模版：[sample-award-1.docx](./_static/sample-award-1.docx)
+   - 图片: [watch.png](./_static/watch.png)
+   - 图片: [batterybank.png](./_static/batterybank.png)
+
+- 获奖通知二 （通过生成模式2生成）（生成一个Word文档，包含所有获奖通知，每页一个获奖通知）
+   - 数据来源：[sample-award-12.xlsx](./_static/sample-award-12.xlsx)
+   - 文档模版：[sample-award-2.docx](./_static/sample-award-2.docx)
+   - 图片: [watch.png](./_static/watch.png)
+   - 图片: [batterybank.png](./_static/batterybank.png)
+
+
+## 带过滤器的文档生成
+
+- 收据一 （通过生成模式1生成）(生成若干这个独立的收据，每个收据一个单独的Word文档)
+   - 数据来源：[sample-invoice-1.xlsx](./_static/sample-invoice-1.xlsx)
+   - 文档模版：[sample-invoice-1.docx](./_static/sample-invoice-1.docx)
+
+> 说明：
+> 后续逐渐增加其他示例，敬请期待。
+
+
+
+
