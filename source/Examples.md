@@ -1,4 +1,4 @@
-# 示例文档
+# 例子
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
      crossorigin="anonymous"></script>
@@ -29,6 +29,11 @@
    - 数据来源：[sample-invitation-12.xlsx](./_static/sample-invitation-12.xlsx)
    - 文档模版：[sample-invitation-2.docx](./_static/sample-invitation-2.docx)
 
+> 上面例子对应的视频教程：
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115831056896568&bvid=BV1LviqBDEcN&cid=35165505593&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 
 ## 带图片的文档生成
 
@@ -44,12 +49,21 @@
    - 图片: [watch.png](./_static/watch.png)
    - 图片: [batterybank.png](./_static/batterybank.png)
 
+> 上面例子对应的视频教程：
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115834160682051&bvid=BV1TRizB1Egr&cid=35173959554&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 
 ## 带过滤器的文档生成
 
 - 收据一 （通过生成模式1生成）(生成若干这个独立的收据，每个收据一个单独的Word文档)
    - 数据来源：[sample-invoice-1.xlsx](./_static/sample-invoice-1.xlsx)
    - 文档模版：[sample-invoice-1.docx](./_static/sample-invoice-1.docx)
+
+> 上面例子对应的视频教程：
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115834395562433&bvid=BV11CikBSEhh&cid=35174875665&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 
 > 说明：
 > 后续逐渐增加其他示例，敬请期待。

@@ -35,3 +35,7 @@
   - [sheet-to-doc-2.3.0-arm64](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.3.0-arm64.AppImage)
   - [sheet-to-doc-2.3.0-armv7l](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.3.0-armv7l.AppImage) 
 
+视频演示
+
+[bilibili视频](https://space.bilibili.com/1534949351/lists/7066080?type=season)
+[其他视频平台](https://s.wtsolutions.cn/images/videoqrcodes.png)

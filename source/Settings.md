@@ -104,4 +104,5 @@ Sheet to Doc 提供了灵活的文件名自定义功能，您可以根据需要�
 
 3. 更多视频
 
-[点击这里查看更多视频](https://s.wtsolutions.cn/images/videoqrcodes.png)
+[bilibili视频](https://space.bilibili.com/1534949351/lists/7066080?type=season)
+[其他视频平台](https://s.wtsolutions.cn/images/videoqrcodes.png)
