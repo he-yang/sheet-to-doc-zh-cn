@@ -23,6 +23,7 @@
    - 如果这些filters可以被Sheet to Doc处理，那么认为匹配✅
    - 如果这些filters不能被Sheet to Doc处理，那么认为不匹配❌
    - 具体有哪些filters能被处理，可以参考[Word模版](https://sheet-to-doc.wtsolutions.cn/zh-cn/latest/WordTemplate.html)
+   - 如果模版中没有使用filters，那么可以忽略这一步
 
 - 图片占位符和图片比对
    - 首先识别步骤2中上传的Word模版有没有使用图片占位符
@@ -35,6 +36,7 @@
    - 识别图片是否在步骤1中上传
       - 如果已经上传，则认为✅
       - 如果不在，则认为❌
+   - 如果模版中没有使用图片占位符，那么可以忽略这一步
 
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"

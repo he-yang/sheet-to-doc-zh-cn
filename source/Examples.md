@@ -17,9 +17,9 @@
 当大家在准备自己的文档模版遇到疑问时，可以参考本页面的示例，来了解如何使用Sheet to Doc。
 
 
-## 基础示例
+## 基础例子
 
-### 简单的文档生成
+### 简单的文档生成（涉及`数据占位符`和`循环占位符1`）
 
 - 邀请函一 （通过生成模式1生成）(生成若干这个独立的邀请函，每个邀请函一个单独的Word文档)
    - 数据来源：[sample-invitation-12.xlsx](./_static/sample-invitation-12.xlsx)
@@ -35,7 +35,7 @@
 
 
 
-## 带图片的文档生成
+## 带图片的文档生成（涉及`数据占位符`，`图片占位符`和`循环占位符1`）
 
 - 获奖通知一 （通过生成模式1生成）(生成若干这个独立的获奖通知，每个获奖通知一个单独的Word文档)
    - 数据来源：[sample-award-12.xlsx](./_static/sample-award-12.xlsx)
@@ -54,7 +54,7 @@
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115834160682051&bvid=BV1TRizB1Egr&cid=35173959554&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
-## 带过滤器的文档生成
+## 带过滤器的文档生成（涉及`数据占位符`和`过滤器`）
 
 - 收据一 （通过生成模式1生成）(生成若干这个独立的收据，每个收据一个单独的Word文档)
    - 数据来源：[sample-invoice-1.xlsx](./_static/sample-invoice-1.xlsx)
