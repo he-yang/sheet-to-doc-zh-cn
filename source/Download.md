@@ -21,20 +21,20 @@
 ## 最新版本
 
 - 当前在线版（网页）最新版本为2.5.0。
-- 当前离线版（桌面安装文件）最新版本为2.5.1。
+- 当前离线版（桌面安装文件）最新版本为2.5.2。
 
 ## Windows (x32, x64)
 - 至少win10系统，推荐win11系统。win7不支持。
-  - [sheet-to-doc-2.5.1-win-ia32.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.1-win-ia32.exe)
-  - [sheet-to-doc-2.5.1-win-x64.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.1-win-x64.exe)  
+  - [sheet-to-doc-2.5.2-win-ia32.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-win-ia32.exe)
+  - [sheet-to-doc-2.5.2-win-x64.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-win-x64.exe)  
 
 ## Mac 
-  - [sheet-to-doc-2.5.1.dmg](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.1.dmg)
+  - [sheet-to-doc-2.5.2.dmg](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2.dmg)
 
 ## Linux (x64, arm64, armv7l)
-  - [sheet-to-doc-2.5.1-x64](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.1.AppImage)
-  - [sheet-to-doc-2.5.1-arm64](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.1-arm64.AppImage)
-  - [sheet-to-doc-2.5.1-armv7l](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.1-armv7l.AppImage) 
+  - [sheet-to-doc-2.5.2-x64](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2.AppImage)
+  - [sheet-to-doc-2.5.2-arm64](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-arm64.AppImage)
+  - [sheet-to-doc-2.5.2-armv7l](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-armv7l.AppImage) 
 
 ## 常见问题
 
@@ -42,7 +42,6 @@
   - 请检查是不是被windows defender 拦截了。
   - 请检查是不是在Win7系统上运行了，Win7不支持，最低需要win10系统。
   - 请检查32位，64位系统是否对应下载了。
-  - 第一次打开时程序默认需要解压缩一些文件，时间会比较久，可能需要几十秒。
 - Mac 上第一次打开特别慢，但第二次往后打开会很快？
   - 这是正常现象，第一次打开时需要解压缩一些文件，时间会比较久。
 
