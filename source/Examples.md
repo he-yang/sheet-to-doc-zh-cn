@@ -1,4 +1,7 @@
-# 例子
+# 使用案例
+
+```{include} _snippet/intro.md
+```
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
      crossorigin="anonymous"></script>
@@ -12,7 +15,7 @@
       (adsbygoogle = window.adsbygoogle || []).push({});
    </script>
 
-为了便于大家使用，我们提供了一些示例文档。我们将根据不同的使用场景，提供不同的示例。
+为了便于大家使用，我们提供了一些使用案例。我们将根据不同的使用场景，提供不同的示例。
 
 当大家在准备自己的文档模版遇到疑问时，可以参考本页面的示例，来了解如何使用Sheet to Doc。
 

@@ -1,32 +1,37 @@
-# 入门指南
+# 快速入门
 
 [English](https://sheet-to-doc.wtsolutions.cn/en/latest/getstarted.html)
 
-Sheet to Doc 是一个功能强大的工具，可以自动将 Excel,CSV, JSON, JSONL数据转换为专业文档。在邮件合并的基础上，本工具开发了更多功能。
+Sheet to Doc 是一个功能强大的工具，可以自动将 Excel, CSV, JSON, JSONL数据写入docx格式的Word模版，批量的转换为Word文档。
 
-本入门指南（本页内容）将引导您完成基本使用步骤，并提供一些示例。这是一个简单的入门指南，帮助您快速上手使用 Sheet to Doc，当您熟悉了之后应该阅读具体的[使用说明](Usage.md)来了解更多的功能。
+在邮件合并的基础上，本工具开发了更多功能，比如自定义文件名，自定义文件路径，嵌入图片等等等等。
+
+:::{attention}
+本快速入门指南（本页内容）将引导您快速了解使用步骤，帮助您快速上手使用 Sheet to Doc，当您熟悉了之后应该阅读具体的[使用说明](Usage.md)来了解更多的功能。
+:::
+
 
 
 ## 使用场景
 
-### 示例1：生成销售报告
+### 场景1：生成销售报告
 
 1. **准备 Excel 表格**：创建包含以下列的表格：产品名称、数量、价格、总计。
-2. **选择模板**：选择 "销售报告" 模板。
+2. **选择模板**：使用 "销售报告" 模板。
 3. **生成**：点击 "生成" 按钮创建销售报告。
 4. **结果**：一份专业的销售报告，包含产品、数量、价格和总计的表格。
 
-### 示例2：生成发票
+### 场景2：生成发票
 
 1. **准备 Excel 表格**：创建包含以下列的表格：发票编号、客户名称、日期、项目、数量、价格、总计。
-2. **选择模板**：选择 "发票" 模板。
+2. **选择模板**：使用 "发票" 模板。
 3. **生成**：点击 "生成" 按钮为每一行创建发票。
 4. **结果**：多张发票，每张发票都有自己的发票编号、客户名称、日期和项目详情。
 
-### 示例3：生成信件
+### 场景3：生成信件
 
 1. **准备 Excel 表格**：创建包含以下列的表格：收件人姓名、地址、日期、主题、正文。
-2. **选择模板**：选择 "商务信函" 模板。
+2. **选择模板**：使用 "商务信函" 模板。
 3. **生成**：点击 "生成" 按钮创建个性化信函。
 4. **结果**：带有收件人姓名、地址和自定义内容的个性化商务信函。
 
@@ -108,25 +113,23 @@ WTSolutions
 
 
 
-### 访问工具
+### 打开Sheet to Doc
 
 您可以使用以下方式访问 Sheet to Doc：
 
-- 使用现代浏览器（如 Chrome、Firefox、Safari）访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)。
-- 您可以在右上角点击语言切换器来切换到英文。
-- 下载工具作为桌面应用程序进行离线使用。 [下载](Download.md)
+1. 使用现代浏览器（如 Chrome、Firefox、Safari）访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)。
+2. 下载软件安装包作为桌面应用程序（可离线单机使用）。 [前往下载](Download.md)
 
 
 ### 填写数据
 
 - 直接从您的 Excel 表格中复制数据。
-- 将其粘贴到 Sheet to Doc Web 应用的 "数据" 字段中。
+- 将其粘贴到 Sheet to Doc Web 应用的 "数据" 区域中。
 - 您可以在 Web 应用中查看数据预览。
 
 ### 上传模板
 
-- 上传您在步骤 2 中准备的 Word 模板文件。
-
+- 上传您准备的 Word 模板文件。
 
 ### 生成文档      
 
@@ -170,26 +173,7 @@ WTSolutions
 
 ---
 
-
-
-### 视频演示 
-
-1. 使用Excel数据演示
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115733463831611&bvid=BV1bgqVBCEDK&cid=34791951913&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-2. 使用JSON数据演示
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115762824026686&bvid=BV1gzBsB7ETa&cid=34907095682&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-3. 更多视频
-
-[bilibili视频](https://space.bilibili.com/1534949351/lists/7066080?type=season)
-[其他视频平台](https://s.wtsolutions.cn/images/videoqrcodes.png)
-
-## 需要帮助？
-
-如果您遇到任何问题或有任何疑问，请发送电子邮件至 he.yang@wtsolutions.cn。
-
-## 意见建议
-[点击这里反馈意见](https://s.wtsolutions.cn/redirect.html#useradviceform)
+:::{note}
+以上为简单的快速入门教程，现在您可以开始使用 Sheet to Doc 来自动生成专业文档了。
+如果您想要了解更多的使用技巧，请参考[使用教程](Usage.md)。
+:::

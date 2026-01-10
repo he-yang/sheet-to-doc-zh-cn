@@ -1,10 +1,7 @@
-# 下载
+# 版本及下载
 
 [English](https://sheet-to-doc.wtsolutions.cn/en/latest/Download.html)
 
-如果您希望离线使用 sheet-to-doc（而不是在线版本），您可以从以下链接安装：
-
-离线版本可以在脱离网络的环境中使用，比如内网或者没有链接到互联网的环境。
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
      crossorigin="anonymous"></script>
@@ -18,23 +15,42 @@
       (adsbygoogle = window.adsbygoogle || []).push({});
    </script>
 
-## 最新版本
+## 版本
 
-- 当前在线版（网页）最新版本为2.5.0。
-- 当前离线版（桌面安装文件）最新版本为2.5.2。
+Sheet to Doc目前发布了`在线版`和`离线桌面版`。
 
-## Windows (x32, x64)
-- 至少win10系统，推荐win11系统。win7不支持。
-  - [sheet-to-doc-2.5.2-win-ia32.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-win-ia32.exe)
-  - [sheet-to-doc-2.5.2-win-x64.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-win-x64.exe)  
+:::{include} _snippet/version.md
+:::
 
-## Mac 
-  - [sheet-to-doc-2.5.2.dmg](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2.dmg)
+### 在线版
 
-## Linux (x64, arm64, armv7l)
-  - [sheet-to-doc-2.5.2-x64](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2.AppImage)
-  - [sheet-to-doc-2.5.2-arm64](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-arm64.AppImage)
-  - [sheet-to-doc-2.5.2-armv7l](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-armv7l.AppImage) 
+在线版通过浏览器访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)
+
+### 离线桌面版
+
+离线桌面版需要下载安装到本地电脑，支持Windows、Mac、Linux等操作系统。
+
+#### Windows (x32, x64)
+- 支持Win10系统及以上。
+- [sheet-to-doc-2.5.2-win-ia32.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-win-ia32.exe)
+- [sheet-to-doc-2.5.2-win-x64.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-win-x64.exe)  
+
+#### Mac (Intel, Apple芯片)
+- 支持MacOS 11及以上。
+- [sheet-to-doc-2.5.2.dmg](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2.dmg)
+
+#### Linux (x64, arm64, armv7l)
+- 支持主流发行版
+  - Ubuntu 20.04 LTS 及以上（如 22.04、24.04）；
+  - Fedora 34 及以上（如 35、36、38）；
+  - Debian 11 及以上（如 12、13）；
+  - Linux Mint 20 及以上（如 21、22）；
+  - openSUSE Leap 15.3 及以上（如 15.4、15.5）
+  - 其他版本也可以做尝试
+
+- [sheet-to-doc-2.5.2-x64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2.AppImage)
+- [sheet-to-doc-2.5.2-arm64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-arm64.AppImage)
+- [sheet-to-doc-2.5.2-armv7l.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.5.2-armv7l.AppImage) 
 
 ## 常见问题
 
@@ -44,8 +60,3 @@
   - 请检查32位，64位系统是否对应下载了。
 - Mac 上第一次打开特别慢，但第二次往后打开会很快？
   - 这是正常现象，第一次打开时需要解压缩一些文件，时间会比较久。
-
-视频演示
-
-[bilibili视频](https://space.bilibili.com/1534949351/lists/7066080?type=season)
-[其他视频平台](https://s.wtsolutions.cn/images/videoqrcodes.png)

@@ -6,28 +6,73 @@ Sheet to Doc by WTSolutions，从Excel数据和Word模版自动批量生成Word�
 
 `English <https://sheet-to-doc.wtsolutions.cn/en/latest/>`_
 
-Sheet to Doc by WTSolutions 是一款可以将 Excel数据和Word模版批量生成Word文档的工具，它将Excel数据写入Word模版并生成Word文档，还可以把图片写入文档。在邮件合并的基础之上，本工具开发了更多的功能：
+Sheet to Doc 是一个功能强大的工具，可以自动将 Excel, CSV, JSON, JSONL数据写入docx格式的Word模版，批量的转换为Word文档。
+
+在邮件合并的基础上，本工具开发了更多功能，比如自定义文件名，自定义文件路径，嵌入图片等等等等。
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 快速入门
+   :name: quickstart
+
+   getstarted.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 数据安全
+   :name: safety
+
+   Safety.md
+
 
 
 .. toctree::
    :maxdepth: 3
-   :numbered:
-   :caption: 目录：
-   :name: mastertoc
+   :caption: 使用教程
+   :name: usagetutorial
 
-   getstarted.md
    Usage.md
    ExcelData.md
    WordTemplate.md
    Comparison.md
    Settings.md
+
+.. toctree::
+   :caption: 视频教程
+   :name: videotutorial
+
+
+        
+       
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 使用案例
+   :name: examples
+
    Examples.md
+  
+   
+.. toctree::
+   :maxdepth: 3
+   :caption: 版本,下载与定价
+   :name: download
+
    Download.md
    Pricing.md
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 服务条款，隐私政策和其他
+   :name: others
+
    termsofuse.md
    privacy.md
    dependencies.md
-   changlog.md
+   Contact.md
+   changelog.md
+
 
 .. raw:: html
    

@@ -1,15 +1,15 @@
-# 设置
+# 生成设置
 
 [English](https://sheet-to-doc.wtsolutions.cn/en/latest/Settings.html)
 
-Sheet to Doc 是一个功能强大的工具，可以自动将 Excel 表格转换为专业文档。在邮件合并的基础上，本工具具备更多功能。
+```{include} _snippet/intro.md
+```
 
 ## 转换模式
 
 ### 模式1：每行数据生成单独Word文档（新手用户推荐）
 
-- 每个数据行将生成一个单独的 Word 文档。
-- 文档的文件名将根据模板中的占位符自动生成，默认为sheet_to_doc_R_{数据所在行行号}_{时间戳}.docx，可以自定义文件名。
+- 每个Excel数据行将生成一个单独的 Word 文档。
 - 这个模式下可能会生成多个文件
    - 在线版，浏览器会弹出提醒，下载多个文件，需要允许该操作。
    - 桌面安装版，建议提前在页面点击右键设置好文件下载储存目录，以免下载错误。
@@ -17,10 +17,8 @@ Sheet to Doc 是一个功能强大的工具，可以自动将 Excel 表格转换
 
 ### 模式2：所有数据生成一个Word文档
 
-- 所有数据将合并到一个 Word 文档中, 在Word 文档内部，根据模版的占位符设计，相应的重复生成数据。
-- 文档的文件名将根据模板中的占位符自动生成，默认为sheet_to_doc_All_{时间戳}.docx，可以自定义文件名。
-- 这个模式下只会生成一个文件。
-- 这个模式下必须在模版中使用循环占位符1，否则会出错, 了解循环占位符1的使用方法[模版准备](WordTemplate.md)。
+- 所有Excel数据将循环被写入Word模版中, 在Word 文档内部，根据模版的占位符设计，相应的重复生成数据，最终生成一个Word文档。
+- 这个模式下必须在模版中使用循环占位符1`{#data}..{/data}`，否则会出错, 了解循环占位符1的使用方法[模版准备](WordTemplate.md)。
 
 ## 文件名设置
 
@@ -31,8 +29,8 @@ Sheet to Doc 提供了灵活的文件名自定义功能，您可以根据需要�
 您可以选择两种文件名生成方式：
 
 1. **默认文件名**：系统自动生成文件名，格式为：
-   - 模式1：sheet_to_doc_R_{数据所在行行号}_{时间戳}.docx
-   - 模式2：sheet_to_doc_All_{时间戳}.docx
+   - 模式1：sheet_to_doc_R_{数据所在行行号}_{时间戳+随机数}.docx
+   - 模式2：sheet_to_doc_All_{时间戳+随机数}.docx
 
 2. **自定义文件名**：您可以根据需要自定义文件名格式，包括前缀、中间内容（来自Excel数据中的标题）和后缀。
 
@@ -95,18 +93,3 @@ Sheet to Doc 提供了灵活的文件名自定义功能，您可以根据需要�
       (adsbygoogle = window.adsbygoogle || []).push({});
    </script>
 
-
-## 视频演示 
-
-1. 使用Excel数据演示
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115733463831611&bvid=BV1bgqVBCEDK&cid=34791951913&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-2. 使用JSON数据演示
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115762824026686&bvid=BV1gzBsB7ETa&cid=34907095682&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-3. 更多视频
-
-[bilibili视频](https://space.bilibili.com/1534949351/lists/7066080?type=season)
-[其他视频平台](https://s.wtsolutions.cn/images/videoqrcodes.png)
