@@ -60,6 +60,7 @@
 4. 付款成功后，激活码会在几分钟内发送到您的邮箱，如果没有收到，请检查您的垃圾邮件文件夹，或者联系我们的客服微信wttranslate。
 5. 支持支付宝，微信，银联卡，MasterCard， Visa，Apple Pay, Google Pay等等主流支付方式。
 6. 离线版不支持免费试用，但可以使用免费版。
+7. 如遇激活时提示错误，建议回邮箱重新复制激活码，复制的过程中注意只选择激活码部分，前后不要复制多余字符。如多次尝试失败，联系我们的客服微信wttranslate。
 :::
 
 ## 咨询服务定价
@@ -70,14 +71,3 @@
 一对一咨询： 100元/小时，请添加微信号 wttranslate
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
-     crossorigin="anonymous"></script>
-   <ins class="adsbygoogle"
-      style="display:block; text-align:center;"
-      data-ad-layout="in-article"
-      data-ad-format="fluid"
-      data-ad-client="ca-pub-8772217510669640"
-      data-ad-slot="2653271427"></ins>
-   <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-   </script>

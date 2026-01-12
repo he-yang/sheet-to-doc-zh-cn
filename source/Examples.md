@@ -34,7 +34,7 @@
 
 > 上面例子对应的视频教程：
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115831056896568&bvid=BV1LviqBDEcN&cid=35165505593&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115831056896568&bvid=BV1LviqBDEcN&cid=35165505593&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 
@@ -54,7 +54,7 @@
 
 > 上面例子对应的视频教程：
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115834160682051&bvid=BV1TRizB1Egr&cid=35173959554&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115834160682051&bvid=BV1TRizB1Egr&cid=35173959554&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 ## 带过滤器的文档生成（涉及`数据占位符`和`过滤器`）
@@ -65,7 +65,7 @@
 
 > 上面例子对应的视频教程：
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115834395562433&bvid=BV11CikBSEhh&cid=35174875665&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115834395562433&bvid=BV11CikBSEhh&cid=35174875665&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 > 说明：
