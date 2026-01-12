@@ -72,6 +72,9 @@
 - 设备二维码 （通过生成模式2生成）(生成若干这个独立的设备二维码)
    - 数据来源：[sample-qrcode-1.xlsx](./_static/sample-qrcode-1.xlsx)
    - 文档模版：[sample-qrcode-1.docx](./_static/sample-qrcode-1.docx)
+> 上面例子对应的视频教程：
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115881959037446&bvid=BV1ZCrYB4Exi&cid=35341926641&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 > 说明：
 > 后续逐渐增加其他示例，敬请期待。
