@@ -34,9 +34,9 @@
 关于 Word 模板的准备的详细说明，请参见[Word 模板](WordTemplate.md)
 :::
 
-## 打开Sheet to Doc
+## 打开Sheet-to-Doc
 
-您可以使用以下方式访问 Sheet to Doc：
+您可以使用以下方式访问 Sheet-to-Doc：
 
 1. 使用现代浏览器（如 Chrome、Firefox、Edge、Safari）访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)。
 2. 下载工具作为桌面应用程序进行离线使用（可断网使用）。 [前往下载](Download.md)
@@ -56,7 +56,7 @@
 ## 填写数据
 
 - 直接从您的 Excel 表格中复制数据, 或者从CSV, JSON, JSONL文件中复制数据，
-- 将其粘贴到 Sheet to Doc 应用的 "数据" 区域中
+- 将其粘贴到 Sheet-to-Doc 应用的 "数据" 区域中
 - 您可以在应用中查看数据预览。
 
 ## 上传图片（如有）

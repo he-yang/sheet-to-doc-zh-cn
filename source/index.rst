@@ -1,12 +1,12 @@
-.. Sheet to Doc 文档主文件，由 Sphinx 自动生成
+.. Sheet-to-Doc 文档主文件，由 Sphinx 自动生成
    您可以根据需要完全调整此文件，但它至少应包含根 `toctree` 指令。
 
-Sheet to Doc by WTSolutions，从Excel数据和Word模版自动批量生成Word文档
+Sheet-to-Doc，从Excel数据和Word模版自动批量生成Word文档
 =================================================================================
 
 `English <https://sheet-to-doc.wtsolutions.cn/en/latest/>`_
 
-Sheet to Doc 是一个功能强大的工具，可以自动将 Excel, CSV, JSON, JSONL数据写入docx格式的Word模版，批量的转换为Word文档。
+Sheet-to-Doc 是一个功能强大的工具，可以自动将 Excel, CSV, JSON, JSONL数据写入docx格式的Word模版，批量的转换为Word文档。
 
 在邮件合并的基础上，本工具开发了更多功能，比如自定义文件名，自定义文件路径，嵌入图片等等等等。
 

@@ -2,12 +2,12 @@
 
 [English](https://sheet-to-doc.wtsolutions.cn/en/latest/getstarted.html)
 
-Sheet to Doc 是一个功能强大的工具，可以自动将 Excel, CSV, JSON, JSONL数据写入docx格式的Word模版，批量的转换为Word文档。
+Sheet-to-Doc 是一个功能强大的工具，可以自动将 Excel, CSV, JSON, JSONL数据写入docx格式的Word模版，批量的转换为Word文档。
 
 在邮件合并的基础上，本工具开发了更多功能，比如自定义文件名，自定义文件路径，嵌入图片等等等等。
 
 :::{attention}
-本快速入门指南（本页内容）将引导您快速了解使用步骤，帮助您快速上手使用 Sheet to Doc，当您熟悉了之后应该阅读具体的[使用说明](Usage.md)来了解更多的功能。
+本快速入门指南（本页内容）将引导您快速了解使用步骤，帮助您快速上手使用 Sheet-to-Doc，当您熟悉了之后应该阅读具体的[使用说明](Usage.md)来了解更多的功能。
 :::
 
 
@@ -113,9 +113,9 @@ WTSolutions
 
 
 
-### 打开Sheet to Doc
+### 打开Sheet-to-Doc
 
-您可以使用以下方式访问 Sheet to Doc：
+您可以使用以下方式访问 Sheet-to-Doc：
 
 1. 使用现代浏览器（如 Chrome、Firefox、Safari）访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)。
 2. 下载软件安装包作为桌面应用程序（可离线单机使用）。 [前往下载](Download.md)
@@ -124,7 +124,7 @@ WTSolutions
 ### 填写数据
 
 - 直接从您的 Excel 表格中复制数据。
-- 将其粘贴到 Sheet to Doc Web 应用的 "数据" 区域中。
+- 将其粘贴到 Sheet-to-Doc Web 应用的 "数据" 区域中。
 - 您可以在 Web 应用中查看数据预览。
 
 ### 上传模板
@@ -174,6 +174,6 @@ WTSolutions
 ---
 
 :::{note}
-以上为简单的快速入门教程，现在您可以开始使用 Sheet to Doc 来自动生成专业文档了。
+以上为简单的快速入门教程，现在您可以开始使用 Sheet-to-Doc 来自动生成专业文档了。
 如果您想要了解更多的使用技巧，请参考[使用教程](Usage.md)。
 :::

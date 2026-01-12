@@ -17,7 +17,7 @@
 
 ## 版本
 
-Sheet to Doc目前发布了`在线版`和`离线桌面版`。
+Sheet-to-Doc目前发布了`在线版`和`离线桌面版`。
 
 :::{include} _snippet/version.md
 :::

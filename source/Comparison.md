@@ -28,8 +28,8 @@
 
 - 过滤器filters对比
    - 识别步骤2中上传的Word模版中出现的过滤器filters
-   - 如果这些filters可以被Sheet to Doc处理，那么显示对号
-   - 如果这些filters不能被Sheet to Doc处理，那么显示叉叉
+   - 如果这些filters可以被Sheet-to-Doc处理，那么显示对号
+   - 如果这些filters不能被Sheet-to-Doc处理，那么显示叉叉
    - 具体有哪些filters能被处理，可以参考[Word模版](WordTemplate.md)
    - 如果模版中没有使用filters，那么可以忽略这一步
 
