@@ -61,6 +61,12 @@ Sheet-to-Doc 是一个功能强大的工具，可以自动将 Excel, CSV, JSON, 
    Download.md
    Pricing.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 常见问题
+   :name: faq
+
+   FAQ.md
 
 .. toctree::
    :maxdepth: 1
