@@ -67,6 +67,11 @@
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115834395562433&bvid=BV11CikBSEhh&cid=35174875665&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
+## 生成二维码的文档生成（涉及`数据占位符`和`二维码占位符`）
+
+- 设备二维码 （通过生成模式2生成）(生成若干这个独立的设备二维码)
+   - 数据来源：[sample-qrcode-1.xlsx](./_static/sample-qrcode-1.xlsx)
+   - 文档模版：[sample-qrcode-1.docx](./_static/sample-qrcode-1.docx)
 
 > 说明：
 > 后续逐渐增加其他示例，敬请期待。
