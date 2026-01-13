@@ -17,7 +17,7 @@
 
 ## 版本
 
-Sheet-to-Doc目前发布了`在线版`和`离线桌面版`。
+Sheet-to-Doc目前发布了`在线版`、`PWA版`和`离线桌面版`。
 
 :::{include} _snippet/version.md
 :::
@@ -25,6 +25,10 @@ Sheet-to-Doc目前发布了`在线版`和`离线桌面版`。
 ### 在线版
 
 在线版通过浏览器访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)
+
+### PWA版
+
+在Windows的系统自带的应用商店（Microsoft Store），搜索`Sheet-to-Doc`，根据应用商店的提示即可安装。
 
 ### 离线桌面版
 
