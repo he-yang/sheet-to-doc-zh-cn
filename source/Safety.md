@@ -1,5 +1,7 @@
 # 数据安全
 
+[English](https://sheet-to-doc.wtsolutions.cn/en/latest/Safety.html)
+
 您的数据安全是我们的首要任务。
 
 我们的软件不会收集您的Excel, JSON, JSONL, CSV数据，也不会收集您的模版文件。我们的隐私政策详细说明了我们如何处理您的数据，见[隐私政策](privacy.md)。

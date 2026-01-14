@@ -1,4 +1,5 @@
 # 常见问题
+
 [English](https://sheet-to-doc.wtsolutions.cn/en/latest/FAQ.html)
 
    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
@@ -36,3 +37,4 @@
   - 数据是否包含空行
   - 数据是否包含特殊字符
 - 如果数据符合要求，可能是数据内容的问题，请到具体行数去逐个检查该行数据，尝试删除该行是否可以解决问题。
+- 进行数据检查的时候，在人工检查之外，我们强烈推荐您使用Excel自带的错误检查功能，检查数据是否符合要求。在Excel的公式标签栏下面，有一个错误检查的按钮。
