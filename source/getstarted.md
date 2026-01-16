@@ -119,6 +119,7 @@ WTSolutions
 
 1. 使用现代浏览器（如 Chrome、Firefox、Safari）访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)。
 2. 下载软件安装包作为桌面应用程序（可离线单机使用）。 [前往下载](Download.md)
+3. 安装插件版Excel或WPS表格中的插件。 [前往下载](Download.md)
 
 
 ### 填写数据

@@ -40,6 +40,7 @@
 
 1. 使用现代浏览器（如 Chrome、Firefox、Edge、Safari）访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)。
 2. 下载工具作为桌面应用程序进行离线使用（可断网使用）。 [前往下载](Download.md)
+3. 安装插件版Excel或WPS表格中的插件。 [前往下载](Download.md)
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
      crossorigin="anonymous"></script>

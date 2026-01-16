@@ -17,7 +17,7 @@
 
 ## 版本
 
-Sheet-to-Doc目前发布了`在线版`、`PWA版`和`离线桌面版`。
+Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面版`。
 
 :::{include} _snippet/version.md
 :::
@@ -29,6 +29,12 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`和`离线桌面版`。
 ### PWA版
 
 在Windows的系统自带的应用商店（Microsoft Store），搜索`Sheet-to-Doc`，根据应用商店的提示即可安装。
+
+### 插件版
+
+插件版Excel或WPS表格中安装插件：
+- Excel加载方式（待定）
+- WPS表格加载方式 [按照本页面指引](https://s.wtsolutions.cn/s2d-addin/publish.html)
 
 ### 离线桌面版
 
