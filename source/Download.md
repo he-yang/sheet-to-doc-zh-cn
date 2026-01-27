@@ -42,12 +42,14 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
 
 #### Windows (x32, x64)
 - 支持Win10系统及以上。
-- [sheet-to-doc-2.7.2-win-ia32.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.7.2-win-ia32.exe)
-- [sheet-to-doc-2.7.2-win-x64.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.7.2-win-x64.exe)  
+- [官网下载sheet-to-doc-2.8.2-win-ia32.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.8.2-win-ia32.exe)
+- [官网下载sheet-to-doc-2.8.2-win-x64.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.8.2-win-x64.exe)
+- [夸克云盘下载](https://pan.quark.cn/s/0270830a1ce2)  
 
 #### Mac (Intel, Apple芯片)
 - 支持MacOS 11及以上。
-- [sheet-to-doc-2.7.2.dmg](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.7.2.dmg)  
+- [官网下载sheet-to-doc-2.8.2.dmg](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.8.2.dmg)  
+- [夸克云盘下载](https://pan.quark.cn/s/0270830a1ce2)  
 
 #### Linux (x64, arm64, armv7l)
 - 支持主流发行版
@@ -58,9 +60,10 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
   - openSUSE Leap 15.3 及以上（如 15.4、15.5）
   - 其他版本也可以做尝试
 
-- [sheet-to-doc-2.7.2-x64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.7.2.AppImage)
-- [sheet-to-doc-2.7.2-arm64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.7.2-arm64.AppImage)
-- [sheet-to-doc-2.7.2-armv7l.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.7.2-armv7l.AppImage) 
+- [官网下载sheet-to-doc-2.8.2-x64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.8.2.AppImage)
+- [官网下载sheet-to-doc-2.8.2-arm64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.8.2-arm64.AppImage)
+- [官网下载sheet-to-doc-2.8.2-armv7l.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.8.2-armv7l.AppImage) 
+- [夸克云盘下载](https://pan.quark.cn/s/0270830a1ce2)  
 
 ## 常见问题
 
