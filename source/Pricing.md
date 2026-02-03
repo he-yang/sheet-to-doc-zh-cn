@@ -51,7 +51,7 @@
 
 购买链接 [https://buy.stripe.com/6oUdR871NfVygAO0IW3Je0e](https://buy.stripe.com/6oUdR871NfVygAO0IW3Je0e)
 
-输入优惠券促销码： `99to49` 可享受优惠价49元。促销码有效期到2026年1月31日。
+输入优惠券促销码： `99to49` 可享受优惠价49元。促销码有效期到2026年2月28日。
 
 :::{note}
 1. 每个激活码仅可在一个设备上使用。两者互为绑定关系。
