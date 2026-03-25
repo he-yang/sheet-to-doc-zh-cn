@@ -32,13 +32,13 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
 - [官网下载sheet-to-doc-2.11.3-win-ia32.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.11.3-win-ia32.exe)
 - [官网下载sheet-to-doc-2.11.3-win-x64.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.11.3-win-x64.exe)
 - [夸克云盘下载](https://pan.quark.cn/s/0270830a1ce2) 
-- [迅雷云盘下载](https://pan.xunlei.com/s/VOkl0XK3VR7hhmDJ1KwWnYKkA1?pwd=euyz#)
+- [百度网盘下载](https://pan.baidu.com/s/1cd1oE9To-oIO0sdAVAHJ6Q?pwd=2eww)
 
 #### Mac (Intel, Apple芯片)
 - 支持MacOS 11及以上。
 - [官网下载sheet-to-doc-2.11.3.dmg](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.11.3.dmg)  
 - [夸克云盘下载](https://pan.quark.cn/s/0270830a1ce2)  
-- [迅雷云盘下载](https://pan.xunlei.com/s/VOkl0XK3VR7hhmDJ1KwWnYKkA1?pwd=euyz#)
+- [百度网盘下载](https://pan.baidu.com/s/1cd1oE9To-oIO0sdAVAHJ6Q?pwd=2eww)
 
 #### Linux (x64, arm64, armv7l)
 - 支持主流发行版
@@ -53,7 +53,7 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
 - [官网下载sheet-to-doc-2.11.3-arm64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.11.3-arm64.AppImage)
 - [官网下载sheet-to-doc-2.11.3-armv7l.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.11.3-armv7l.AppImage) 
 - [夸克云盘下载](https://pan.quark.cn/s/0270830a1ce2)  
-- [迅雷云盘下载](https://pan.xunlei.com/s/VOkl0XK3VR7hhmDJ1KwWnYKkA1?pwd=euyz#)
+- [百度网盘下载](https://pan.baidu.com/s/1cd1oE9To-oIO0sdAVAHJ6Q?pwd=2eww)
 
 ## 常见问题
 
