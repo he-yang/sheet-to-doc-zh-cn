@@ -50,9 +50,13 @@
 
 离线版安装激活码：
 
-购买链接 [https://buy.stripe.com/6oUdR871NfVygAO0IW3Je0e](https://buy.stripe.com/6oUdR871NfVygAO0IW3Je0e)
+单台设备，购买链接 [https://buy.stripe.com/6oUdR871NfVygAO0IW3Je0e](https://buy.stripe.com/6oUdR871NfVygAO0IW3Je0e)
 
-输入优惠券促销码： `99to59202604` 可享受优惠价59元。促销码有效期到2026年4月30日。
+单台设备购买，输入优惠券促销码： `99to59202604` 可享受优惠价59元(原价99元)。促销码有效期到2026年4月30日。
+
+3台设备， 购买链接 [https://buy.stripe.com/fZu7sKgCn5gUfwKbnA3Je0s](https://buy.stripe.com/fZu7sKgCn5gUfwKbnA3Je0s)
+
+3台设备购买，输入优惠券促销码： `3S2D202604` 可享受优惠价99元（原价297元）。促销码有效期到2026年4月30日。
 
 :::{note}
 1. 每个激活码仅可在一个设备上使用。两者互为绑定关系。仅限于在离线安装版上使用。
