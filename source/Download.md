@@ -20,7 +20,7 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
 ### 插件版
 
 插件版Excel或WPS表格中安装插件：
-- Excel加载方式（待定）
+- Excel加载方式 [按照本页面指引](https://marketplace.microsoft.com/zh-cn/product/WA200010877?tab=Overview)
 - WPS表格加载方式 [按照本页面指引](https://s.wtsolutions.cn/s2d-addin/publish.html)
 
 ### 离线桌面版
@@ -63,3 +63,5 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
   - 请检查32位，64位系统是否对应下载了。
 - Mac 上第一次打开特别慢，但第二次往后打开会很快？
   - 这是正常现象，第一次打开时需要解压缩一些文件，时间会比较久。
+- Mac 上无法正常安装，怎么解决？
+  - 可以参考这个视频： https://www.douyin.com/video/7631227471077084452
