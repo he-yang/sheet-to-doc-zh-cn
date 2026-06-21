@@ -29,14 +29,14 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
 
 #### Windows (x32, x64)
 - 支持Win10系统及以上。
-- [官网下载sheet-to-doc-2.13.0-win.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.13.0-win.exe)
+- [官网下载sheet-to-doc-2.14.0-win.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.14.0-win.exe)
 - [夸克云盘下载](https://pan.quark.cn/s/0270830a1ce2) 
 - [百度网盘下载](https://pan.baidu.com/s/1cd1oE9To-oIO0sdAVAHJ6Q?pwd=2eww)
 
 #### Mac (Intel, Apple芯片)
 - 支持MacOS 11及以上。
-- [官网下载 Sheet-to-Doc-2.13.0-x64-mac.dmg（Intel 芯片）](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.13.0-x64-mac.dmg)
-- [官网下载 Sheet-to-Doc-2.13.0-arm64-mac.dmg（Apple Silicon芯片） ](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.13.0-arm64-mac.dmg)
+- [官网下载 Sheet-to-Doc-2.14.0-x64-mac.dmg（Intel 芯片）](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.14.0-x64-mac.dmg)
+- [官网下载 Sheet-to-Doc-2.14.0-arm64-mac.dmg（Apple Silicon芯片） ](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.14.0-arm64-mac.dmg)
 - [夸克云盘下载](https://pan.quark.cn/s/0270830a1ce2)  
 - [百度网盘下载](https://pan.baidu.com/s/1cd1oE9To-oIO0sdAVAHJ6Q?pwd=2eww)
 
@@ -49,9 +49,9 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
   - openSUSE Leap 15.3 及以上（如 15.4、15.5）
   - 其他版本也可以做尝试
 
-- [官网下载sheet-to-doc-2.13.0-x64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.13.0.AppImage)
-- [官网下载sheet-to-doc-2.13.0-arm64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.13.0-arm64.AppImage)
-- [官网下载sheet-to-doc-2.13.0-armv7l.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.13.0-armv7l.AppImage) 
+- [官网下载sheet-to-doc-2.14.0-x64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.14.0.AppImage)
+- [官网下载sheet-to-doc-2.14.0-arm64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.14.0-arm64.AppImage)
+- [官网下载sheet-to-doc-2.14.0-armv7l.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.14.0-armv7l.AppImage) 
 - [夸克云盘下载](https://pan.quark.cn/s/0270830a1ce2)  
 - [百度网盘下载](https://pan.baidu.com/s/1cd1oE9To-oIO0sdAVAHJ6Q?pwd=2eww)
 
