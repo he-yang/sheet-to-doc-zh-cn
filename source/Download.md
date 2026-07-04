@@ -13,9 +13,14 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
 
 在线版通过浏览器访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)
 
+<div id="pwa"></div>
+
 ### PWA版
 
 在Windows的系统自带的应用商店（Microsoft Store），搜索`Sheet-to-Doc`，根据应用商店的提示即可安装。
+
+
+<div id="addin"></div>
 
 ### 插件版  
 
@@ -23,10 +28,13 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
 - Excel加载方式 [按照本页面指引](https://marketplace.microsoft.com/zh-cn/product/WA200010877?tab=Overview)
 - WPS表格加载方式 [按照本页面指引](https://s.wtsolutions.cn/s2d-addin/publish.html)
 
+
 ### 离线桌面版
 
 离线桌面版需要下载安装到本地电脑，支持Windows、Mac、Linux等操作系统。
 
+[下载地址](https://s.wtsolutions.cn/latest.html?product=sheet-to-doc&language=zh)
+<!-- 
 #### Windows (x32, x64)
 - 支持Win10系统及以上。
 - [官网下载sheet-to-doc-2.14.0-win.exe](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.14.0-win.exe)
@@ -53,7 +61,7 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
 - [官网下载sheet-to-doc-2.14.0-arm64.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.14.0-arm64.AppImage)
 - [官网下载sheet-to-doc-2.14.0-armv7l.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.14.0-armv7l.AppImage) 
 - [夸克云盘下载](https://pan.quark.cn/s/0270830a1ce2)  
-- [百度网盘下载](https://pan.baidu.com/s/1cd1oE9To-oIO0sdAVAHJ6Q?pwd=2eww)
+- [百度网盘下载](https://pan.baidu.com/s/1cd1oE9To-oIO0sdAVAHJ6Q?pwd=2eww) -->
 
 ## 常见问题
 
