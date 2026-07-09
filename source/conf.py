@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Sheet-to-Doc'
+project = 'Sheet-to-Doc 技术文档'
 copyright = '2022~2026, WTSolutions'
 author = 'WTSolutions'
 release = '2.14.0.0'
@@ -65,5 +65,28 @@ source_suffix = {
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 # html_theme = 'alabaster'
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
+html_theme = "shibuya"
 html_static_path = ['_static']
+
+# 自定义导航链接
+# shibuya 主题的导航链接配置项
+html_theme_options = {
+    "nav_links": [
+        {
+            "title": "产品介绍",
+            "url": "https://s.wtsolutions.cn/sheet-to-doc-product.html"
+        },
+        {
+            "title": "Sheet-to-Doc 在线版",
+            "url": "https://s.wtsolutions.cn/sheet-to-doc.html"
+        },
+    ]
+}
+
+html_context = {
+    "languages": [
+        ("English", "/en/%s/", "en"),
+        ("中文", "/zh-cn/%s/", "zh-cn"),
+    ]
+}
