@@ -22,9 +22,7 @@
 当大家在准备自己的文档模版遇到疑问时，可以参考本页面的示例，来了解如何使用Sheet-to-Doc。
 
 
-## 基础例子
-
-### 简单的文档生成（涉及`数据占位符`和`循环占位符1`）
+## 简单的文档生成（涉及`数据占位符`和`循环占位符1`）
 
 - 邀请函一 （通过生成模式1生成）(生成若干这个独立的邀请函，每个邀请函一个单独的Word文档)
    - 数据来源：[sample-invitation-12.xlsx](./_static/sample-invitation-12.xlsx)
@@ -74,9 +72,36 @@
 - 设备二维码 （通过生成模式2生成）(生成若干这个独立的设备二维码)
    - 数据来源：[sample-qrcode-1.xlsx](./_static/sample-qrcode-1.xlsx)
    - 文档模版：[sample-qrcode-1.docx](./_static/sample-qrcode-1.docx)
+
 > 上面例子对应的视频教程：
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115881959037446&bvid=BV1ZCrYB4Exi&cid=35341926641&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
+## 简单表格生成（涉及`循环占位符`和`表格占位符1`）
+
+- 简单表格一 （通过生成模式2生成）(生成若干这个独立的简单表格，每个简单表格一个单独的Word文档)
+   - 数据来源：[sample-table-1.xlsx](./_static/sample-table-1.xlsx)
+   - 文档模版：[sample-table-1.docx](./_static/sample-table-1.docx)
+
+
+
+## 复杂表格生成（涉及`循环占位符`和`表格占位符3`）
+
+- 复杂表格一 （通过生成模式2生成）(生成若干这个独立的复杂表格，每个复杂表格一个单独的Word文档)
+   - 数据来源：[sample-table-3.json](./_static/sample-table-3.json)
+   - 文档模版：[sample-table-3.docx](./_static/sample-table-3.docx)
+
+
+
+## 批量给文档添加打开密码
+
+- 在线版不支持，只支持桌面离线安装版
+- 批量给文档添加打开密码 （通过生成模式2生成）
+   - 数据来源：[sample-password-1.xlsx](./_static/sample-password-1.xlsx)
+   - 文档模版：[sample-password-1.docx](./_static/sample-password-1.docx)
+
+
 
 > 说明：
 > 后续逐渐增加其他示例，敬请期待。
