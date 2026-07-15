@@ -80,7 +80,7 @@
 
 ## 简单表格生成（涉及`循环占位符`和`表格占位符1`）
 
-- 简单表格一 （通过生成模式2生成）(生成若干这个独立的简单表格，每个简单表格一个单独的Word文档)
+- 简单表格一 （通过生成模式2生成）
    - 数据来源：[sample-table-1.xlsx](./_static/sample-table-1.xlsx)
    - 文档模版：[sample-table-1.docx](./_static/sample-table-1.docx)
 
@@ -88,7 +88,7 @@
 
 ## 复杂表格生成（涉及`循环占位符`和`表格占位符3`）
 
-- 复杂表格一 （通过生成模式2生成）(生成若干这个独立的复杂表格，每个复杂表格一个单独的Word文档)
+- 复杂表格一 （通过生成模式2生成）
    - 数据来源：[sample-table-3.json](./_static/sample-table-3.json)
    - 文档模版：[sample-table-3.docx](./_static/sample-table-3.docx)
 
@@ -97,7 +97,7 @@
 ## 批量给文档添加打开密码
 
 - 在线版不支持，只支持桌面离线安装版
-- 批量给文档添加打开密码 （通过生成模式2生成）
+- 批量给文档添加打开密码 （通过生成模式1生成）
    - 数据来源：[sample-password-1.xlsx](./_static/sample-password-1.xlsx)
    - 文档模版：[sample-password-1.docx](./_static/sample-password-1.docx)
 
