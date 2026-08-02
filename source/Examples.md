@@ -85,14 +85,15 @@
    - 文档模版：[sample-table-1.docx](./_static/sample-table-1.docx)
 
 
-
 ## 复杂表格生成（涉及`循环占位符`和`表格占位符3`）
 
 - 复杂表格一 （通过生成模式2生成）
    - 数据来源：[sample-table-3.json](./_static/sample-table-3.json)
    - 文档模版：[sample-table-3.docx](./_static/sample-table-3.docx)
 
+> 上面例子对应的视频教程：
 
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116927632709159&bvid=BV1LXKg6gEZS&cid=39996228200&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 批量给文档添加打开密码
 
