@@ -15,4 +15,4 @@
    </script>
 
 邮箱：he.yang@wtsolutions.cn
-微信：wttranslate
+微信：wttranslate或者 wtsolutions
