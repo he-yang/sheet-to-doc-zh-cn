@@ -50,4 +50,4 @@
   - 这是正常现象，第一次打开时需要解压缩一些文件，时间会比较久。
 
 ## 其他问题
-联系微信wttranslate或者 wtsolutions,或发送邮件到he.yang@wtsolutions.cn
+联系微信wttranslate,或发送邮件到he.yang@wtsolutions.cn
