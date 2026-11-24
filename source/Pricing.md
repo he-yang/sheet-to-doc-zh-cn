@@ -78,7 +78,7 @@ AI 技能版在 **WorkBuddy** 平台内独立计费，与在线版 / PWA 版 / �
 - **定价模型**：一次性买断
 - **费用**：**99 元**，无限次使用，不限制生成文档数与数据行数
 - **退款**：支持 7 天无理由退款
-- **购买 / 获取**：[前往 WorkBuddy 获取 Sheet-to-Doc Agent →](https://www.workbuddy.cn/share/asset?shareCode=uLnGLAlWBh9WqlDhYIQve2&sig=zcxfvL_4qHz5T1k1)
+- **购买 / 获取**：[前往 WorkBuddy 获取 Sheet-to-Doc Agent →](https://www.workbuddy.cn/share/asset?shareCode=HBSNV2bT4psqEBOZvGI5PK&sig=9af1TJnf-QhiskFV)
 
 :::{note}
 AI 技能版复用 Sheet-to-Doc 的全部文档生成能力（占位符、循环、判断、图片、二维码、表格、加密等），并采用"先预览、再样本、后全量"的对话式工作流。使用方法见 [AI 技能版](Agent.md)，与其他版本的关系见 [版本及下载](Download.md)。

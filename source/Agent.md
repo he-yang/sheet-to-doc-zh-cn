@@ -21,7 +21,7 @@ AI 技能版与在线版、PWA 版、插件版、离线桌面版**同属 Sheet-t
 
 AI 技能版已在 **WorkBuddy** 上架（当前版本 v1.0.2）：
 
-- [前往 WorkBuddy 获取 Sheet-to-Doc Agent →](https://www.workbuddy.cn/share/asset?shareCode=uLnGLAlWBh9WqlDhYIQve2&sig=zcxfvL_4qHz5T1k1)
+- [前往 WorkBuddy 获取 Sheet-to-Doc Agent →](https://www.workbuddy.cn/share/asset?shareCode=HBSNV2bT4psqEBOZvGI5PK&sig=9af1TJnf-QhiskFV)
 
 获取并在 WorkBuddy 中启用技能后，即可通过自然语言调用。
 
