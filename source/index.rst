@@ -10,6 +10,8 @@ Sheet-to-Doc 是一个功能强大的工具，可以自动将 Excel, CSV, JSON, 
 
 在邮件合并的基础上，本工具开发了更多功能，比如自定义文件名，自定义文件路径，嵌入图片等等等等。
 
+Sheet-to-Doc 提供多种使用形态：在线版、PWA 版、插件版、离线桌面版，以及在 WorkBuddy 中以自然语言对话使用的 AI 技能版。不同形态的模板写法、数据源与生成模式完全通用。
+
 .. toctree::
    :maxdepth: 2
    :caption: 快速入门
@@ -26,6 +28,7 @@ Sheet-to-Doc 是一个功能强大的工具，可以自动将 Excel, CSV, JSON, 
 
 
 
+
 .. toctree::
    :maxdepth: 3
    :caption: 使用教程
@@ -36,6 +39,15 @@ Sheet-to-Doc 是一个功能强大的工具，可以自动将 Excel, CSV, JSON, 
    WordTemplate.md
    Comparison.md
    Settings.md
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: AI 技能版
+   :name: agent
+
+   Agent.md
+
 
 .. toctree::
    :caption: 视频教程

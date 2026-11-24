@@ -120,13 +120,18 @@ WTSolutions
 1. 使用现代浏览器（如 Chrome、Firefox、Safari）访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)。
 2. 下载软件安装包作为桌面应用程序（可离线单机使用）。 [前往下载](Download.md)
 3. 安装插件版Excel或WPS表格中的插件。 [前往下载](Download.md)
+4. 在 [WorkBuddy](https://www.workbuddy.cn/) 中使用 **AI 技能版**，用自然语言对话即可批量生成文档，无需打开软件。 [了解 AI 技能版](Agent.md)
+
+:::{hint}
+以下"填写数据 / 上传模板 / 生成"步骤针对在线版、PWA 版、插件版和离线桌面版。AI 技能版在 WorkBuddy 中通过对话完成等效流程，详见 [AI 技能版](Agent.md)。
+:::
 
 
 ### 填写数据
 
 - 直接从您的 Excel 表格中复制数据。
-- 将其粘贴到 Sheet-to-Doc Web 应用的 "数据" 区域中。
-- 您可以在 Web 应用中查看数据预览。
+- 将其粘贴到 Sheet-to-Doc 应用的 "数据" 区域中。
+- 您可以在 Sheet-to-Doc 应用中查看数据预览。
 
 ### 上传模板
 

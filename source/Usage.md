@@ -41,6 +41,11 @@
 1. 使用现代浏览器（如 Chrome、Firefox、Edge、Safari）访问 [https://s.wtsolutions.cn/sheet-to-doc.html](https://s.wtsolutions.cn/sheet-to-doc.html)。
 2. 下载工具作为桌面应用程序进行离线使用（可断网使用）。 [前往下载](Download.md)
 3. 安装插件版Excel或WPS表格中的插件。 [前往下载](Download.md)
+4. 在 [WorkBuddy](https://www.workbuddy.cn/) 中使用 **AI 技能版**，用自然语言对话即可批量生成文档，无需打开软件。 [了解 AI 技能版](Agent.md)
+
+:::{hint}
+以下"填写数据 / 上传图片 / 上传模板 / 比对 / 生成"步骤针对在线版、PWA 版、插件版和离线桌面版。AI 技能版在 WorkBuddy 中通过对话完成等效流程（巡检模板 → 比对数据 → 生成样本 → 批量出全量），详见 [AI 技能版](Agent.md)。
+:::
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772217510669640"
      crossorigin="anonymous"></script>

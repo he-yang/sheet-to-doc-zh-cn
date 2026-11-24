@@ -84,6 +84,11 @@ html_theme_options = {
             "external": True
         },
         {
+            "title": "AI 技能版",
+            "url": "https://s.wtsolutions.cn/sheet-to-doc-agent.html",
+            "external": True
+        },
+        {
             "title": "相关产品",
             "url": "products",
             "children": [

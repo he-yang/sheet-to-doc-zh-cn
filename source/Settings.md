@@ -99,7 +99,7 @@ Sheet-to-Doc 提供了灵活的文件名自定义功能，您可以根据需要�
       (adsbygoogle = window.adsbygoogle || []).push({});
    </script>
 
-## 最后修改者设置
+## 最后修改者设置 （AI 技能版不支持）
 
 Sheet-to-Doc 提供了"最后修改者"功能，允许您自定义生成的 Word 文档中显示的作者信息。
 
@@ -126,7 +126,7 @@ Sheet-to-Doc 提供了"最后修改者"功能，允许您自定义生成的 Word
 - **结果**：所有生成的文档将显示"John Doe"作为最后修改者。
 
 
-## 页脚广告设置
+## 页脚广告设置 （AI 技能版不支持）
 
 如果你在使用免费版，那么默认将会在生成的文档页脚位置添加广告：“本文档由Sheet-to-Doc生成，https://s.wtsolutions.cn/sheet-to-doc"。
 

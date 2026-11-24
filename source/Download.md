@@ -4,7 +4,7 @@
 
 ## 版本
 
-Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面版`。
+Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`、`离线桌面版`和`AI 技能版`（在 WorkBuddy 中以对话方式使用）。
 
 :::{include} _snippet/version.md
 :::
@@ -62,6 +62,16 @@ Sheet-to-Doc目前发布了`在线版`、`PWA版`、`插件版`和`离线桌面�
 - [官网下载sheet-to-doc-2.14.0-armv7l.AppImage](https://r2.wtsolutions.cn/sheet-to-doc-releases/Sheet-to-Doc-2.14.0-armv7l.AppImage) 
 - [夸克云盘下载](https://pan.quark.cn/s/0270830a1ce2)  
 - [百度网盘下载](https://pan.baidu.com/s/1cd1oE9To-oIO0sdAVAHJ6Q?pwd=2eww) -->
+
+<div id="agent"></div>
+
+### AI 技能版（WorkBuddy）
+
+AI 技能版不是一个需要单独安装的软件，而是一项在 [WorkBuddy](https://www.workbuddy.cn/) 中使用的 AI 技能（Skill）。在 WorkBuddy 里获取并启用后，用自然语言把 Word 模板和数据表交给它，即可批量生成文档。
+
+- [前往 WorkBuddy 获取 Sheet-to-Doc Agent →](https://www.workbuddy.cn/share/asset?shareCode=uLnGLAlWBh9WqlDhYIQve2&sig=zcxfvL_4qHz5T1k1)；
+- 产品页：<https://s.wtsolutions.cn/sheet-to-doc-agent.html>；
+
 
 ## 常见问题
 
